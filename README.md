@@ -2,6 +2,7 @@
 
 ### Global 🌐
 
+- font family: `'Input Mono', Consolas, 'Courier New', monospace`
 - font size: `17px`
 - tab size: `2`
 - default formatter: `prettier`
